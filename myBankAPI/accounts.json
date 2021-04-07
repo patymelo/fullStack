@@ -1,0 +1,35 @@
+{
+ "nextId": 7,
+ "accounts": [
+  {
+   "id": 1,
+   "name": "Patricia de Oliveira Melo",
+   "balance": 222
+  },
+  {
+   "id": 2,
+   "name": "Patricia Melo",
+   "balance": 513
+  },
+  {
+   "id": 3,
+   "name": "Patricia de Oliveira Melo",
+   "balance": 9899
+  },
+  {
+   "id": 4,
+   "name": "Patricia de Oliveira Melo",
+   "balance": 0
+  },
+  {
+   "id": 5,
+   "name": "Patricia de Oliveira Melo",
+   "balance": 0
+  },
+  {
+   "id": 6,
+   "name": "joao",
+   "balance": 0
+  }
+ ]
+}

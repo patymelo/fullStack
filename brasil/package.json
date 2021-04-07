@@ -1,0 +1,25 @@
+{
+  "name": "brasil",
+  "version": "1.0.0",
+  "description": "api de estados",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patymelo/brasil.git"
+  },
+  "author": "patricia",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/patymelo/brasil/issues"
+  },
+  "homepage": "https://github.com/patymelo/brasil#readme"
+}

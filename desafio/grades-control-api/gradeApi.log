@@ -1,0 +1,457 @@
+2021-03-30T14:07:24.338Z [gradeApi] info: API started and file created!
+2021-03-30T14:25:14.431Z [gradeApi] info: API Started!
+2021-03-30T14:27:57.708Z [gradeApi] info: API Started!
+2021-03-30T14:28:00.757Z [gradeApi] info: POST /grade - {"id":49,"student":"patricia melo","subject":"01 - JavaScript","type":"Trabalho Prático","value":90,"timestamp":1617114480626}
+2021-03-30T14:28:01.751Z [gradeApi] info: API Started!
+2021-03-30T14:28:03.611Z [gradeApi] info: API Started!
+2021-03-30T14:28:21.226Z [gradeApi] info: API Started!
+2021-03-30T14:28:23.090Z [gradeApi] info: API Started!
+2021-03-30T14:30:00.502Z [gradeApi] info: API Started!
+2021-03-30T14:30:01.921Z [gradeApi] info: API Started!
+2021-03-30T14:30:09.989Z [gradeApi] info: API Started!
+2021-03-30T14:30:12.173Z [gradeApi] info: API Started!
+2021-03-30T14:30:19.508Z [gradeApi] info: API Started!
+2021-03-30T14:30:21.338Z [gradeApi] info: API Started!
+2021-03-30T14:30:42.803Z [gradeApi] info: API Started!
+2021-03-30T14:30:44.754Z [gradeApi] info: API Started!
+2021-03-30T14:30:49.176Z [gradeApi] info: POST /grade - {"id":49,"student":"patricia melo","subject":"01 - JavaScript","type":"Trabalho Prático","value":90}
+2021-03-30T14:30:49.867Z [gradeApi] info: API Started!
+2021-03-30T14:30:51.662Z [gradeApi] info: API Started!
+2021-03-30T14:31:57.059Z [gradeApi] info: API Started!
+2021-03-30T14:31:58.890Z [gradeApi] info: API Started!
+2021-03-30T14:32:07.008Z [gradeApi] info: API Started!
+2021-03-30T14:32:09.034Z [gradeApi] info: API Started!
+2021-03-30T14:32:11.775Z [gradeApi] info: POST /grade - {"id":49,"student":"patricia melo","subject":"01 - JavaScript","type":"Trabalho Prático","value":90,"timestamp":"function createFormatWrap(opts) {\n    return new Format(opts);\n  }"}
+2021-03-30T14:32:12.550Z [gradeApi] info: API Started!
+2021-03-30T14:32:14.167Z [gradeApi] info: API Started!
+2021-03-30T14:33:25.846Z [gradeApi] info: API Started!
+2021-03-30T14:33:27.532Z [gradeApi] info: API Started!
+2021-03-30T14:33:37.193Z [gradeApi] info: POST /grade - {"id":50,"student":"patricia melo","subject":"01 - JavaScript","type":"Trabalho Prático","value":90,"timestamp":{"options":{}}}
+2021-03-30T14:33:38.031Z [gradeApi] info: API Started!
+2021-03-30T14:33:40.477Z [gradeApi] info: API Started!
+2021-03-30T14:36:42.471Z [gradeApi] info: API Started!
+2021-03-30T14:36:43.902Z [gradeApi] info: API Started!
+2021-03-30T14:36:46.897Z [gradeApi] info: API Started!
+2021-03-30T14:36:50.004Z [gradeApi] info: API Started!
+2021-03-30T14:37:16.215Z [gradeApi] info: API Started!
+2021-03-30T14:37:18.015Z [gradeApi] info: API Started!
+2021-03-30T14:37:44.074Z [gradeApi] info: API Started!
+2021-03-30T14:37:45.757Z [gradeApi] info: API Started!
+2021-03-30T14:38:05.282Z [gradeApi] info: API Started!
+2021-03-30T14:38:06.861Z [gradeApi] info: API Started!
+2021-03-30T14:38:16.379Z [gradeApi] info: API Started!
+2021-03-30T14:38:18.012Z [gradeApi] info: API Started!
+2021-03-30T14:38:23.046Z [gradeApi] info: POST /grade - {"id":49,"student":"patricia melo","subject":"01 - JavaScript","type":"Trabalho Prático","value":90,"timestamp":"2021-03-30T14:38:23.036Z"}
+2021-03-30T14:38:23.851Z [gradeApi] info: API Started!
+2021-03-30T14:38:25.547Z [gradeApi] info: API Started!
+2021-03-30T14:38:41.711Z [gradeApi] info: API Started!
+2021-03-30T14:38:44.825Z [gradeApi] info: API Started!
+2021-03-30T14:40:00.288Z [gradeApi] info: API Started!
+2021-03-30T14:40:01.948Z [gradeApi] info: API Started!
+2021-03-30T14:40:02.700Z [gradeApi] error: Student, subject, type and value are required.
+2021-03-30T14:42:23.660Z [gradeApi] info: API Started!
+2021-03-30T14:42:25.345Z [gradeApi] info: API Started!
+2021-03-30T14:43:09.304Z [gradeApi] info: API Started!
+2021-03-30T14:43:11.075Z [gradeApi] info: API Started!
+2021-03-30T14:43:16.378Z [gradeApi] info: API Started!
+2021-03-30T14:43:18.123Z [gradeApi] info: API Started!
+2021-03-30T14:43:22.205Z [gradeApi] info: API Started!
+2021-03-30T14:43:23.853Z [gradeApi] info: API Started!
+2021-03-30T14:43:39.217Z [gradeApi] info: API Started!
+2021-03-30T14:43:40.641Z [gradeApi] info: API Started!
+2021-03-30T14:43:43.531Z [gradeApi] info: API Started!
+2021-03-30T14:43:45.273Z [gradeApi] info: API Started!
+2021-03-30T14:44:17.355Z [gradeApi] error: Cannot read property 'findIndex' of undefined
+2021-03-30T14:44:45.887Z [gradeApi] info: API Started!
+2021-03-30T14:44:47.472Z [gradeApi] info: API Started!
+2021-03-30T14:44:48.074Z [gradeApi] error: Registro not found
+2021-03-30T14:45:28.001Z [gradeApi] error: Cannot read property '48' of undefined
+2021-03-30T14:46:04.798Z [gradeApi] error: Student, subject, type and value are required.
+2021-03-30T14:46:13.400Z [gradeApi] error: Cannot read property '48' of undefined
+2021-03-30T14:46:15.660Z [gradeApi] error: Cannot read property '48' of undefined
+2021-03-30T14:46:56.323Z [gradeApi] info: API Started!
+2021-03-30T14:46:57.991Z [gradeApi] info: API Started!
+2021-03-30T14:47:00.731Z [gradeApi] info: API Started!
+2021-03-30T14:47:02.468Z [gradeApi] info: API Started!
+2021-03-30T14:48:46.358Z [gradeApi] info: API Started!
+2021-03-30T14:48:48.303Z [gradeApi] info: API Started!
+2021-03-30T14:49:33.193Z [gradeApi] info: API Started!
+2021-03-30T14:49:34.994Z [gradeApi] info: API Started!
+2021-03-30T14:50:24.117Z [gradeApi] info: API Started!
+2021-03-30T14:50:25.722Z [gradeApi] info: API Started!
+2021-03-30T14:51:03.266Z [gradeApi] info: DELETE /grade/:id - 49
+2021-03-30T14:51:03.968Z [gradeApi] info: API Started!
+2021-03-30T14:51:05.612Z [gradeApi] info: API Started!
+2021-03-30T14:51:14.511Z [gradeApi] error: Registro not found
+2021-03-30T14:51:17.552Z [gradeApi] info: POST /grade - {"id":50,"student":"patricia melo","subject":"01 - JavaScript","type":"Trabalho Prático","value":90,"timestamp":"2021-03-30T14:51:17.549Z"}
+2021-03-30T14:51:18.370Z [gradeApi] info: API Started!
+2021-03-30T14:51:20.184Z [gradeApi] info: API Started!
+2021-03-30T14:52:04.093Z [gradeApi] info: API Started!
+2021-03-30T14:52:05.670Z [gradeApi] info: API Started!
+2021-03-30T14:52:09.893Z [gradeApi] info: API Started!
+2021-03-30T14:52:11.930Z [gradeApi] info: API Started!
+2021-03-30T14:52:15.200Z [gradeApi] info: DELETE /grade/:id - 49
+2021-03-30T14:52:15.982Z [gradeApi] info: API Started!
+2021-03-30T14:52:17.724Z [gradeApi] info: API Started!
+2021-03-30T14:52:28.139Z [gradeApi] info: DELETE /grade/:id - 49
+2021-03-30T14:52:29.017Z [gradeApi] info: API Started!
+2021-03-30T14:52:30.699Z [gradeApi] info: API Started!
+2021-03-30T14:54:43.378Z [gradeApi] info: API Started!
+2021-03-30T14:54:44.962Z [gradeApi] info: API Started!
+2021-03-30T14:54:53.151Z [gradeApi] info: API Started!
+2021-03-30T14:54:55.178Z [gradeApi] info: API Started!
+2021-03-30T14:55:06.785Z [gradeApi] info: API Started!
+2021-03-30T14:55:11.011Z [gradeApi] info: API Started!
+2021-03-30T14:56:24.889Z [gradeApi] info: API Started!
+2021-03-30T14:56:26.581Z [gradeApi] info: API Started!
+2021-03-30T15:14:03.738Z [gradeApi] info: API Started!
+2021-03-30T15:14:06.067Z [gradeApi] info: API Started!
+2021-03-30T15:14:13.084Z [gradeApi] info: API Started!
+2021-03-30T15:14:15.398Z [gradeApi] info: API Started!
+2021-03-30T15:15:33.060Z [gradeApi] info: API Started!
+2021-03-30T15:15:34.565Z [gradeApi] info: API Started!
+2021-03-30T15:15:39.599Z [gradeApi] info: API Started!
+2021-03-30T15:15:41.203Z [gradeApi] info: API Started!
+2021-03-30T15:16:06.645Z [gradeApi] info: API Started!
+2021-03-30T15:16:08.542Z [gradeApi] info: API Started!
+2021-03-30T15:16:30.148Z [gradeApi] info: API Started!
+2021-03-30T15:16:31.947Z [gradeApi] info: API Started!
+2021-03-30T15:18:52.505Z [gradeApi] info: API Started!
+2021-03-30T15:18:54.399Z [gradeApi] info: API Started!
+2021-03-30T15:19:31.124Z [gradeApi] info: API Started!
+2021-03-30T15:19:33.358Z [gradeApi] info: API Started!
+2021-03-30T15:20:39.542Z [gradeApi] info: API Started!
+2021-03-30T15:20:41.359Z [gradeApi] info: API Started!
+2021-03-30T15:20:42.760Z [gradeApi] error: id is not defined
+2021-03-30T15:20:55.675Z [gradeApi] info: API Started!
+2021-03-30T15:20:57.221Z [gradeApi] info: API Started!
+2021-03-30T15:21:18.388Z [gradeApi] info: API Started!
+2021-03-30T15:21:20.456Z [gradeApi] info: API Started!
+2021-03-30T15:21:43.599Z [gradeApi] info: API Started!
+2021-03-30T15:21:45.462Z [gradeApi] info: API Started!
+2021-03-30T15:22:01.254Z [gradeApi] info: API Started!
+2021-03-30T15:22:02.729Z [gradeApi] info: API Started!
+2021-03-30T15:22:24.926Z [gradeApi] info: API Started!
+2021-03-30T15:22:26.605Z [gradeApi] info: API Started!
+2021-03-30T15:22:39.676Z [gradeApi] info: API Started!
+2021-03-30T15:22:41.425Z [gradeApi] info: API Started!
+2021-03-30T15:26:08.766Z [gradeApi] info: API Started!
+2021-03-30T15:26:09.800Z [gradeApi] info: API Started!
+2021-03-30T15:26:10.781Z [gradeApi] info: API Started!
+2021-03-30T15:26:31.299Z [gradeApi] info: API Started!
+2021-03-30T15:26:32.524Z [gradeApi] info: API Started!
+2021-03-30T15:26:33.381Z [gradeApi] info: API Started!
+2021-03-30T15:28:14.368Z [gradeApi] info: API Started!
+2021-03-30T15:28:15.933Z [gradeApi] info: API Started!
+2021-03-30T16:51:41.324Z [gradeApi] info: API Started!
+2021-03-30T16:52:33.447Z [gradeApi] info: API Started!
+2021-03-30T16:52:44.919Z [gradeApi] info: API Started!
+2021-03-30T16:53:34.676Z [gradeApi] info: API Started!
+2021-03-30T16:53:36.140Z [gradeApi] info: API Started!
+2021-03-30T16:54:00.681Z [gradeApi] info: API Started!
+2021-03-30T16:54:02.004Z [gradeApi] info: API Started!
+2021-03-30T16:54:03.936Z [gradeApi] error: Assignment to constant variable.
+2021-03-30T16:54:35.409Z [gradeApi] error: Assignment to constant variable.
+2021-03-30T16:54:53.431Z [gradeApi] info: API Started!
+2021-03-30T16:54:55.129Z [gradeApi] info: API Started!
+2021-03-30T16:55:13.298Z [gradeApi] info: API Started!
+2021-03-30T16:55:14.996Z [gradeApi] info: API Started!
+2021-03-30T16:56:29.548Z [gradeApi] info: API Started!
+2021-03-30T16:56:31.132Z [gradeApi] info: API Started!
+2021-03-30T16:56:45.548Z [gradeApi] info: API Started!
+2021-03-30T16:56:47.114Z [gradeApi] info: API Started!
+2021-03-30T16:57:21.059Z [gradeApi] info: API Started!
+2021-03-30T16:57:22.502Z [gradeApi] info: API Started!
+2021-03-30T16:57:47.036Z [gradeApi] info: API Started!
+2021-03-30T16:57:48.766Z [gradeApi] info: API Started!
+2021-03-30T16:58:06.559Z [gradeApi] info: API Started!
+2021-03-30T16:58:08.156Z [gradeApi] info: API Started!
+2021-03-30T16:58:44.611Z [gradeApi] info: API Started!
+2021-03-30T16:58:46.483Z [gradeApi] info: API Started!
+2021-03-30T16:59:03.898Z [gradeApi] info: API Started!
+2021-03-30T16:59:05.282Z [gradeApi] info: API Started!
+2021-03-30T16:59:11.292Z [gradeApi] info: API Started!
+2021-03-30T16:59:13.171Z [gradeApi] info: API Started!
+2021-03-30T16:59:45.693Z [gradeApi] info: API Started!
+2021-03-30T16:59:47.361Z [gradeApi] info: API Started!
+2021-03-30T16:59:53.490Z [gradeApi] info: API Started!
+2021-03-30T16:59:55.165Z [gradeApi] info: API Started!
+2021-03-30T17:00:04.867Z [gradeApi] info: API Started!
+2021-03-30T17:00:06.846Z [gradeApi] info: API Started!
+2021-03-30T17:01:41.533Z [gradeApi] info: API Started!
+2021-03-30T17:01:44.897Z [gradeApi] info: API Started!
+2021-03-30T17:02:21.045Z [gradeApi] info: API Started!
+2021-03-30T17:02:23.238Z [gradeApi] info: API Started!
+2021-03-30T17:02:23.563Z [gradeApi] error: Cannot read property 'student' of undefined
+2021-03-30T17:02:52.646Z [gradeApi] info: API Started!
+2021-03-30T17:02:53.260Z [gradeApi] error: Cannot read property 'student' of undefined
+2021-03-30T17:02:55.417Z [gradeApi] info: API Started!
+2021-03-30T17:03:00.907Z [gradeApi] info: API Started!
+2021-03-30T17:03:02.377Z [gradeApi] info: API Started!
+2021-03-30T17:03:15.472Z [gradeApi] info: API Started!
+2021-03-30T17:03:17.287Z [gradeApi] info: API Started!
+2021-03-30T17:03:38.982Z [gradeApi] info: API Started!
+2021-03-30T17:03:40.947Z [gradeApi] info: API Started!
+2021-03-30T17:03:48.614Z [gradeApi] error: Cannot read property 'student' of undefined
+2021-03-30T17:04:04.624Z [gradeApi] info: API Started!
+2021-03-30T17:04:06.202Z [gradeApi] info: API Started!
+2021-03-30T17:04:21.883Z [gradeApi] info: API Started!
+2021-03-30T17:04:23.495Z [gradeApi] info: API Started!
+2021-03-30T17:04:49.830Z [gradeApi] info: API Started!
+2021-03-30T17:04:55.762Z [gradeApi] info: API Started!
+2021-03-30T17:05:11.591Z [gradeApi] info: API Started!
+2021-03-30T17:05:13.360Z [gradeApi] info: API Started!
+2021-03-30T17:05:31.789Z [gradeApi] info: API Started!
+2021-03-30T17:05:33.282Z [gradeApi] info: API Started!
+2021-03-30T17:05:41.033Z [gradeApi] info: API Started!
+2021-03-30T17:05:42.744Z [gradeApi] info: API Started!
+2021-03-30T17:05:43.882Z [gradeApi] info: API Started!
+2021-03-30T17:05:48.010Z [gradeApi] info: API Started!
+2021-03-30T17:06:32.774Z [gradeApi] info: API Started!
+2021-03-30T17:06:37.586Z [gradeApi] info: API Started!
+2021-03-30T17:08:17.958Z [gradeApi] info: API Started!
+2021-03-30T17:08:20.245Z [gradeApi] info: API Started!
+2021-03-30T17:08:41.902Z [gradeApi] info: API Started!
+2021-03-30T17:08:43.837Z [gradeApi] info: API Started!
+2021-03-30T17:09:05.247Z [gradeApi] info: API Started!
+2021-03-30T17:09:06.966Z [gradeApi] info: API Started!
+2021-03-30T17:09:09.366Z [gradeApi] info: API Started!
+2021-03-30T17:09:11.299Z [gradeApi] info: API Started!
+2021-03-30T17:09:30.466Z [gradeApi] info: API Started!
+2021-03-30T17:09:31.992Z [gradeApi] info: API Started!
+2021-03-30T17:09:55.852Z [gradeApi] info: API Started!
+2021-03-30T17:09:57.588Z [gradeApi] info: API Started!
+2021-03-30T17:10:33.720Z [gradeApi] info: API Started!
+2021-03-30T17:10:35.498Z [gradeApi] info: API Started!
+2021-03-30T17:11:21.739Z [gradeApi] info: API Started!
+2021-03-30T17:11:23.370Z [gradeApi] info: API Started!
+2021-03-30T17:12:01.524Z [gradeApi] info: API Started!
+2021-03-30T17:12:03.298Z [gradeApi] info: API Started!
+2021-03-30T17:13:08.644Z [gradeApi] info: API Started!
+2021-03-30T17:13:10.418Z [gradeApi] info: API Started!
+2021-03-30T17:17:43.905Z [gradeApi] info: API Started!
+2021-03-30T17:17:45.484Z [gradeApi] info: API Started!
+2021-03-30T17:18:03.373Z [gradeApi] info: API Started!
+2021-03-30T17:18:04.982Z [gradeApi] info: API Started!
+2021-03-30T17:18:56.770Z [gradeApi] info: API Started!
+2021-03-30T17:18:58.437Z [gradeApi] info: API Started!
+2021-03-30T17:19:59.402Z [gradeApi] info: API Started!
+2021-03-30T17:20:01.516Z [gradeApi] info: API Started!
+2021-03-30T17:20:02.889Z [gradeApi] error: totalGrade is not defined
+2021-03-30T17:20:10.200Z [gradeApi] info: API Started!
+2021-03-30T17:20:12.172Z [gradeApi] info: API Started!
+2021-03-30T17:20:13.157Z [gradeApi] error: totalGrade is not defined
+2021-03-30T17:20:21.991Z [gradeApi] info: API Started!
+2021-03-30T17:20:23.790Z [gradeApi] info: API Started!
+2021-03-30T17:20:40.864Z [gradeApi] info: API Started!
+2021-03-30T17:20:42.651Z [gradeApi] info: API Started!
+2021-03-30T17:20:46.726Z [gradeApi] info: API Started!
+2021-03-30T17:20:48.419Z [gradeApi] info: API Started!
+2021-03-30T17:21:07.333Z [gradeApi] info: API Started!
+2021-03-30T17:21:09.113Z [gradeApi] info: API Started!
+2021-03-30T17:21:20.913Z [gradeApi] info: API Started!
+2021-03-30T17:21:22.504Z [gradeApi] info: API Started!
+2021-03-30T17:22:05.467Z [gradeApi] info: API Started!
+2021-03-30T17:22:10.572Z [gradeApi] info: API Started!
+2021-03-30T17:22:37.219Z [gradeApi] info: API Started!
+2021-03-30T17:22:42.424Z [gradeApi] info: API Started!
+2021-03-30T17:22:57.749Z [gradeApi] info: API Started!
+2021-03-30T17:22:59.712Z [gradeApi] info: API Started!
+2021-03-30T17:23:00.313Z [gradeApi] error: Cannot read property 'value' of undefined
+2021-03-30T17:23:10.679Z [gradeApi] info: API Started!
+2021-03-30T17:23:12.434Z [gradeApi] info: API Started!
+2021-03-30T17:23:19.835Z [gradeApi] info: API Started!
+2021-03-30T17:23:21.896Z [gradeApi] info: API Started!
+2021-03-30T17:24:01.575Z [gradeApi] info: API Started!
+2021-03-30T17:24:03.254Z [gradeApi] info: API Started!
+2021-03-30T17:24:06.477Z [gradeApi] info: API Started!
+2021-03-30T17:24:08.409Z [gradeApi] info: API Started!
+2021-03-30T17:24:09.387Z [gradeApi] info: API Started!
+2021-03-30T17:24:11.989Z [gradeApi] info: API Started!
+2021-03-30T17:24:14.823Z [gradeApi] info: API Started!
+2021-03-30T17:24:16.525Z [gradeApi] info: API Started!
+2021-03-30T17:24:23.735Z [gradeApi] info: API Started!
+2021-03-30T17:24:25.244Z [gradeApi] info: API Started!
+2021-03-30T17:24:27.201Z [gradeApi] info: API Started!
+2021-03-30T17:24:29.936Z [gradeApi] info: API Started!
+2021-03-30T17:24:51.080Z [gradeApi] info: API Started!
+2021-03-30T17:24:53.103Z [gradeApi] info: API Started!
+2021-03-30T17:26:07.624Z [gradeApi] info: API Started!
+2021-03-30T17:26:09.163Z [gradeApi] info: API Started!
+2021-03-30T17:26:48.986Z [gradeApi] info: API Started!
+2021-03-30T17:26:50.582Z [gradeApi] info: API Started!
+2021-03-30T17:27:24.335Z [gradeApi] info: API Started!
+2021-03-30T17:27:26.344Z [gradeApi] info: API Started!
+2021-03-30T17:29:05.019Z [gradeApi] info: API Started!
+2021-03-30T17:29:06.491Z [gradeApi] info: API Started!
+2021-03-30T17:29:10.650Z [gradeApi] info: API Started!
+2021-03-30T17:29:12.962Z [gradeApi] info: API Started!
+2021-03-30T17:29:17.481Z [gradeApi] info: API Started!
+2021-03-30T17:29:19.793Z [gradeApi] info: API Started!
+2021-03-30T17:29:22.099Z [gradeApi] info: API Started!
+2021-03-30T17:29:25.951Z [gradeApi] info: API Started!
+2021-03-30T17:29:47.122Z [gradeApi] info: API Started!
+2021-03-30T17:29:48.855Z [gradeApi] info: API Started!
+2021-03-30T17:29:52.458Z [gradeApi] info: API Started!
+2021-03-30T17:29:54.280Z [gradeApi] info: API Started!
+2021-03-30T17:30:05.812Z [gradeApi] info: API Started!
+2021-03-30T17:30:07.552Z [gradeApi] info: API Started!
+2021-03-30T17:30:07.743Z [gradeApi] info: GET /grade/:student/:subject - Loiane Groner-02 - Node
+2021-03-30T17:30:26.409Z [gradeApi] info: API Started!
+2021-03-30T17:30:28.370Z [gradeApi] info: API Started!
+2021-03-30T17:30:29.596Z [gradeApi] info: API Started!
+2021-03-30T17:30:33.170Z [gradeApi] info: API Started!
+2021-03-30T17:31:10.333Z [gradeApi] info: GET /grade/:student/:subject - Loiane Groner/01 - JavaScript
+2021-03-30T17:31:26.373Z [gradeApi] info: API Started!
+2021-03-30T17:31:28.010Z [gradeApi] info: API Started!
+2021-03-30T17:32:25.990Z [gradeApi] info: API Started!
+2021-03-30T17:32:27.718Z [gradeApi] info: API Started!
+2021-03-30T17:34:23.957Z [gradeApi] info: API Started!
+2021-03-30T17:34:25.601Z [gradeApi] info: API Started!
+2021-03-30T17:34:49.349Z [gradeApi] info: API Started!
+2021-03-30T17:34:51.068Z [gradeApi] info: API Started!
+2021-03-30T17:35:12.922Z [gradeApi] info: API Started!
+2021-03-30T17:35:14.435Z [gradeApi] info: API Started!
+2021-03-30T17:35:39.866Z [gradeApi] info: API Started!
+2021-03-30T17:35:41.482Z [gradeApi] info: API Started!
+2021-03-30T17:35:48.269Z [gradeApi] info: API Started!
+2021-03-30T17:35:49.833Z [gradeApi] info: API Started!
+2021-03-30T17:35:53.740Z [gradeApi] info: API Started!
+2021-03-30T17:36:00.461Z [gradeApi] info: API Started!
+2021-03-30T17:37:32.224Z [gradeApi] info: API Started!
+2021-03-30T17:37:34.141Z [gradeApi] info: API Started!
+2021-03-30T17:37:38.154Z [gradeApi] info: API Started!
+2021-03-30T17:37:40.233Z [gradeApi] info: API Started!
+2021-03-30T17:37:44.623Z [gradeApi] info: API Started!
+2021-03-30T17:37:46.216Z [gradeApi] info: API Started!
+2021-03-30T17:37:57.998Z [gradeApi] info: API Started!
+2021-03-30T17:37:59.599Z [gradeApi] info: API Started!
+2021-03-30T17:38:06.859Z [gradeApi] info: API Started!
+2021-03-30T17:38:09.125Z [gradeApi] info: API Started!
+2021-03-30T17:39:00.321Z [gradeApi] info: GET /grade/:student/:subject - 01 - JavaScript/Desafio
+2021-03-30T17:39:37.694Z [gradeApi] info: API Started!
+2021-03-30T17:39:39.415Z [gradeApi] info: API Started!
+2021-03-30T17:39:47.180Z [gradeApi] info: API Started!
+2021-03-30T17:39:49.076Z [gradeApi] info: API Started!
+2021-03-30T17:40:04.825Z [gradeApi] info: API Started!
+2021-03-30T17:40:10.058Z [gradeApi] info: API Started!
+2021-03-30T17:40:11.876Z [gradeApi] info: API Started!
+2021-03-30T17:40:12.619Z [gradeApi] info: GET /grade/:student/:subject - Loiane Groner/01 - JavaScript
+2021-03-30T17:40:13.601Z [gradeApi] info: API Started!
+2021-03-30T17:40:20.754Z [gradeApi] error: mediaGrade is not defined
+2021-03-30T17:41:26.728Z [gradeApi] info: API Started!
+2021-03-30T17:41:28.759Z [gradeApi] info: API Started!
+2021-03-30T17:41:34.058Z [gradeApi] info: API Started!
+2021-03-30T17:41:35.767Z [gradeApi] info: API Started!
+2021-03-30T17:41:37.960Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:45:06.947Z [gradeApi] info: API Started!
+2021-03-30T17:45:08.406Z [gradeApi] info: API Started!
+2021-03-30T17:45:26.014Z [gradeApi] info: API Started!
+2021-03-30T17:45:27.958Z [gradeApi] info: API Started!
+2021-03-30T17:47:17.622Z [gradeApi] info: API Started!
+2021-03-30T17:47:19.223Z [gradeApi] info: API Started!
+2021-03-30T17:47:35.877Z [gradeApi] info: API Started!
+2021-03-30T17:47:37.763Z [gradeApi] info: API Started!
+2021-03-30T17:48:25.239Z [gradeApi] info: API Started!
+2021-03-30T17:48:27.274Z [gradeApi] info: API Started!
+2021-03-30T17:48:27.813Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:48:49.027Z [gradeApi] info: API Started!
+2021-03-30T17:48:50.884Z [gradeApi] info: API Started!
+2021-03-30T17:49:06.178Z [gradeApi] info: API Started!
+2021-03-30T17:49:08.098Z [gradeApi] info: API Started!
+2021-03-30T17:49:14.260Z [gradeApi] info: API Started!
+2021-03-30T17:49:15.850Z [gradeApi] info: API Started!
+2021-03-30T17:49:16.961Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:50:24.628Z [gradeApi] info: API Started!
+2021-03-30T17:50:26.211Z [gradeApi] info: API Started!
+2021-03-30T17:50:26.472Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:50:42.215Z [gradeApi] info: API Started!
+2021-03-30T17:50:44.131Z [gradeApi] info: API Started!
+2021-03-30T17:50:59.758Z [gradeApi] info: API Started!
+2021-03-30T17:51:01.731Z [gradeApi] info: API Started!
+2021-03-30T17:51:12.685Z [gradeApi] info: API Started!
+2021-03-30T17:51:13.411Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:51:14.377Z [gradeApi] info: API Started!
+2021-03-30T17:51:34.351Z [gradeApi] info: API Started!
+2021-03-30T17:51:34.993Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:51:36.907Z [gradeApi] info: API Started!
+2021-03-30T17:51:55.091Z [gradeApi] info: API Started!
+2021-03-30T17:51:57.080Z [gradeApi] info: API Started!
+2021-03-30T17:52:00.198Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:52:10.825Z [gradeApi] info: API Started!
+2021-03-30T17:52:12.733Z [gradeApi] info: API Started!
+2021-03-30T17:52:27.597Z [gradeApi] info: API Started!
+2021-03-30T17:52:29.144Z [gradeApi] info: API Started!
+2021-03-30T17:52:35.521Z [gradeApi] info: API Started!
+2021-03-30T17:52:37.972Z [gradeApi] info: API Started!
+2021-03-30T17:52:38.090Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:52:43.197Z [gradeApi] info: API Started!
+2021-03-30T17:52:43.641Z [gradeApi] info: GET /grade/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T17:52:44.732Z [gradeApi] info: API Started!
+2021-03-30T17:53:03.161Z [gradeApi] info: API Started!
+2021-03-30T17:53:04.949Z [gradeApi] info: API Started!
+2021-03-30T17:53:12.408Z [gradeApi] info: API Started!
+2021-03-30T17:53:14.258Z [gradeApi] info: API Started!
+2021-03-30T17:54:18.557Z [gradeApi] info: GET /grade/media/:subject/:type - 01 - JavaScript/Fórum
+2021-03-30T17:54:53.976Z [gradeApi] info: GET /grade/bestTree/:subject/:type 
+2021-03-30T17:55:23.812Z [gradeApi] info: GET /grade/media/:subject/:type - 02 - Node/Desafio
+2021-03-30T17:55:46.884Z [gradeApi] info: GET /grade/nota/:student/:subject - Loiane Groner/02 - Node
+2021-03-30T17:56:32.668Z [gradeApi] info: POST /grade - {"id":51,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2021-03-30T17:56:32.665Z"}
+2021-03-30T17:56:33.525Z [gradeApi] info: API Started!
+2021-03-30T17:56:36.326Z [gradeApi] info: API Started!
+2021-03-30T17:57:07.779Z [gradeApi] info: GET /grade/nota/:student/:subject - Roberto Achar/03 - React
+2021-03-30T17:59:49.203Z [gradeApi] info: PUT /grade - {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15}
+2021-03-30T17:59:50.092Z [gradeApi] info: API Started!
+2021-03-30T17:59:51.675Z [gradeApi] info: API Started!
+2021-03-30T18:00:25.766Z [gradeApi] info: GET /grade/media/:subject/:type - 01 - JavaScript/Desafio
+2021-03-30T18:01:28.622Z [gradeApi] info: DELETE /grade/:id - 32
+2021-03-30T18:01:29.571Z [gradeApi] info: API Started!
+2021-03-30T18:01:31.154Z [gradeApi] info: API Started!
+2021-03-30T18:02:12.371Z [gradeApi] info: GET /grade/media/:subject/:type - 04 - MongoDB/Trabalho Prático
+2021-03-30T18:03:57.323Z [gradeApi] info: API Started!
+2021-03-30T18:03:59.194Z [gradeApi] info: API Started!
+2021-03-30T18:04:39.919Z [gradeApi] info: GET /grade/:id - 55
+2021-03-30T18:05:03.832Z [gradeApi] info: API Started!
+2021-03-30T18:05:07.904Z [gradeApi] info: API Started!
+2021-03-30T18:05:35.367Z [gradeApi] info: API Started!
+2021-03-30T18:05:37.236Z [gradeApi] info: API Started!
+2021-03-30T18:06:08.695Z [gradeApi] info: API Started!
+2021-03-30T18:06:10.243Z [gradeApi] info: API Started!
+2021-03-30T18:06:11.140Z [gradeApi] info: GET /grade/:id - 55
+2021-03-30T18:06:12.079Z [gradeApi] info: GET /grade/:id - 55
+2021-03-30T18:06:34.643Z [gradeApi] info: API Started!
+2021-03-30T18:06:36.134Z [gradeApi] info: API Started!
+2021-03-30T18:06:49.921Z [gradeApi] info: GET /grade/:id - 31
+2021-03-30T18:07:00.277Z [gradeApi] info: API Started!
+2021-03-30T18:07:02.188Z [gradeApi] info: API Started!
+2021-03-30T18:07:02.217Z [gradeApi] info: GET /grade/:id - 31
+2021-03-30T18:07:05.799Z [gradeApi] info: GET /grade/:id - 55
+2021-03-30T18:07:07.807Z [gradeApi] info: GET /grade/:id - 55
+2021-03-30T18:07:19.852Z [gradeApi] info: API Started!
+2021-03-30T18:07:22.038Z [gradeApi] info: API Started!
+2021-03-30T18:07:22.812Z [gradeApi] info: GET /grade/:id - 55
+2021-03-30T18:07:28.611Z [gradeApi] info: API Started!
+2021-03-30T18:07:29.600Z [gradeApi] info: GET /grade/:id - 55
+2021-03-30T18:07:30.248Z [gradeApi] info: API Started!
+2021-03-30T18:08:10.153Z [gradeApi] info: API Started!
+2021-03-30T18:08:11.753Z [gradeApi] info: API Started!
+2021-03-30T18:08:20.003Z [gradeApi] info: API Started!
+2021-03-30T18:08:21.070Z [gradeApi] info: API Started!
+2021-03-30T18:08:21.243Z [gradeApi] error: grade is not defined
+2021-03-30T18:08:42.843Z [gradeApi] error: grade is not defined
+2021-03-30T18:08:44.366Z [gradeApi] error: grade is not defined
+2021-03-30T18:08:55.910Z [gradeApi] info: API Started!
+2021-03-30T18:08:57.636Z [gradeApi] info: API Started!
+2021-03-30T18:09:00.446Z [gradeApi] info: API Started!
+2021-03-30T18:09:02.650Z [gradeApi] info: API Started!
+2021-03-30T18:09:09.012Z [gradeApi] info: API Started!
+2021-03-30T18:09:10.512Z [gradeApi] info: API Started!
+2021-03-30T18:09:19.402Z [gradeApi] error: grade is not defined
+2021-03-30T18:09:29.142Z [gradeApi] info: API Started!
+2021-03-30T18:09:30.854Z [gradeApi] info: API Started!
+2021-03-30T18:09:31.035Z [gradeApi] info: GET /grade/:id - 31
+2021-03-30T18:09:46.369Z [gradeApi] info: API Started!
+2021-03-30T18:09:48.103Z [gradeApi] info: API Started!
+2021-03-30T18:09:50.497Z [gradeApi] info: GET /grade/:id - 31
+2021-03-30T18:09:53.589Z [gradeApi] error: Registro not found
+2021-03-30T18:10:09.450Z [gradeApi] info: GET /grade/:id - 43
