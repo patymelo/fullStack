@@ -1,0 +1,69 @@
+body {
+  padding: 20px;
+}
+
+.textFind {
+margin-left: 20px !important;
+}
+.divCenter{
+  float: left;
+  max-width: 100%;
+  text-align: center;
+}
+.content{
+  float: left;
+  width: auto;
+  margin: 0 0 0 25px;
+}
+.colunas{
+  display: flex;
+}
+.result-list {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 10px;
+  width: 50%;
+  text-align: left;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+  border-radius: 50%;
+}
+
+.divContentUser{
+  text-align: left;
+  width: 100%;
+}
+
+.divUser{
+  display: flex;
+  padding: 10px;
+  width: 100%;
+}
+
+#tabUser{
+  width: 100%;
+  text-align: left;
+}
+
+#tabStatistics{
+  width: 100%;
+  text-align: left;
+}
+
+.textUser{
+  font-size: 1.0rem !important;
+   margin-top: 7px;
+   border-bottom: 0px solid #9e9e9e !important;
+}
+
+.divStatistics{
+  display: inline-table;
+  width: 100%;
+}
