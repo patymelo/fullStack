@@ -6,7 +6,7 @@ import { accountRouter } from './routes/accountRouter.js';
 const uri =
   'mongodb+srv://bootcmapo:admin@cluster0.t1pxw.mongodb.net/grades?retryWrites=true&w=majority';
 
-//Conectando com o MongoDB
+//Conectando com o MongoDB usando mongoose
 (async () => {
   try {
     console.log('Conectando ao MongoDB...');
