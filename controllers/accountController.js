@@ -11,6 +11,16 @@ export const findAll = async (req, res) => {
   }
 };
 
+export const findID = async (req, res) => {
+  const id = req.params.id;
+  try {
+    const account = await accountModel.find({ _id: id });
+    res.send(account);
+  } catch (err) {
+    res.status(500).send(err);
+  }
+};
+
 export const deposit = async (req, res) => {
   const account = req.body;
   try {

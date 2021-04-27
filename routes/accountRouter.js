@@ -10,6 +10,7 @@ app.delete('/account/remove/', controller.remove);
 app.patch('/account/transfer/', controller.transfer);
 
 app.get('/account/lowestBalance/:limit', controller.lowestBalance);
+app.get('/account/findID/:id', controller.findID);
 app.get('/account/highestBalance/:limit', controller.highestBalance);
 app.get('/account/averageBalance/:agencia', controller.averageBalance);
 app.patch('/account/tranferHighestBalance/', controller.tranferHighestBalance);
