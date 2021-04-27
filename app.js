@@ -3,8 +3,14 @@ import express from 'express';
 import mongoose from 'mongoose';
 import { accountRouter } from './routes/accountRouter.js';
 
-const uri =
-  'mongodb+srv://bootcmapo:admin@cluster0.t1pxw.mongodb.net/grades?retryWrites=true&w=majority';
+import dotenv from 'dotenv';
+dotenv.config();
+
+const usrDB = process.env.USRDB;
+const pwb = process.env.PWDDB;
+const port = process.env.PORTADB;
+
+const uri = `mongodb+srv://${usrDB}:${pwb}@cluster0.t1pxw.mongodb.net/grades?retryWrites=true&w=majority`;
 
 //Conectando com o MongoDB usando mongoose
 (async () => {
@@ -21,7 +27,7 @@ const uri =
 })();
 
 const app = express();
-app.listen(3000, () => console.log('API Started!'));
+app.listen(port, () => console.log('API Started!'));
 
 app.use(express.json());
 app.use(accountRouter);
