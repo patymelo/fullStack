@@ -12,7 +12,7 @@ const port = process.env.PORTADB;
 
 const uri = `mongodb+srv://${usrDB}:${pwb}@cluster0.t1pxw.mongodb.net/grades?retryWrites=true&w=majority`;
 
-//Conectando com o MongoDB usando mongoose
+//Conectando com o MongoDB
 (async () => {
   try {
     console.log('Conectando ao MongoDB...');
