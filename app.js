@@ -20,7 +20,7 @@ const uri = `mongodb+srv://${usrDB}:${pwb}@cluster0.t1pxw.mongodb.net/grades?ret
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
-    console.log('Conectado com sucesso ao MongoDB');
+    console.log('Conectado com sucesso ao MongoDB Atlas');
   } catch (error) {
     console.log('Erro ao conectar ao MongoDB,' + error);
   }
