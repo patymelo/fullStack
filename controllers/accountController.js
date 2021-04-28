@@ -21,6 +21,16 @@ export const findID = async (req, res) => {
   }
 };
 
+export const findAccount = async (req, res) => {
+  const conta = req.params.conta;
+  try {
+    const account = await accountModel.find({ conta: conta });
+    res.send(account);
+  } catch (err) {
+    res.status(500).send(err);
+  }
+};
+
 export const deposit = async (req, res) => {
   const account = req.body;
   try {
