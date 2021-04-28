@@ -8,7 +8,7 @@ dotenv.config();
 
 const usrDB = process.env.USRDB;
 const pwb = process.env.PWDDB;
-var port = process.env.PORTADB || process.env.PORT;
+const port = process.env.PORT || 3000;
 
 const uri = `mongodb+srv://${usrDB}:${pwb}@cluster0.t1pxw.mongodb.net/grades?retryWrites=true&w=majority`;
 
