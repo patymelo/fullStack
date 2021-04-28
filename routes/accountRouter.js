@@ -2,7 +2,7 @@ import express from 'express';
 import * as controller from '../controllers/accountController.js';
 const app = express();
 
-app.get('/account', controller.findAll);
+app.get('/', controller.findAll);
 app.patch('/account/deposit/', controller.deposit);
 app.patch('/account/withdraw/', controller.withdraw);
 app.get('/account/checkBalance/:agencia/:conta', controller.checkBalance);
